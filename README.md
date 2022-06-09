@@ -1,5 +1,5 @@
 ### Hi there 👋
-### [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nohhongju)](https://solved.ac/nohhongju)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohhongju&show_icons=true&theme=radical)
 <!--
 **nohhongju/nohhongju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
