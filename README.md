@@ -1,5 +1,11 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohhongju&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nohhongju)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnohhongju%2Fnohhongju&count_bg=%236700D5&title_bg=%23545354&icon=pinboard.svg&icon_color=%23EAEAEA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **nohhongju/nohhongju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
